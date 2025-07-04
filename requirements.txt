@@ -3,5 +3,4 @@ fastapi
 uvicorn
 requests
 pydantic
-smtplib
 email
